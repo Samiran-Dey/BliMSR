@@ -10,6 +10,11 @@ To install all requirements execute the following line.
 ```bash
 pip install -r requirements.txt
 ```
+CLone repository.
+```bash
+git clone 
+cd
+```
 
 ## Dataset Preparation
 The file dataset_random.py helps in preparing the data for training and testing. 
