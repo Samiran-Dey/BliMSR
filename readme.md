@@ -10,7 +10,7 @@ To install all requirements execute the following line.
 ```bash
 pip install -r requirements.txt
 ```
-CLone repository.
+To clone repository - 
 ```bash
 git clone https://github.com/Samiran-Dey/BliMSR.git
 cd BliMSR
