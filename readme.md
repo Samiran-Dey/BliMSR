@@ -12,8 +12,8 @@ pip install -r requirements.txt
 ```
 CLone repository.
 ```bash
-git clone 
-cd
+git clone https://github.com/Samiran-Dey/BliMSR.git
+cd BliMSR
 ```
 
 ## Dataset Preparation
