@@ -10,7 +10,7 @@ To install all requirements execute the following line.
 ```bash
 pip install -r requirements.txt
 ```
-To clone repository - 
+And then clone the repository as follows. 
 ```bash
 git clone https://github.com/Samiran-Dey/BliMSR.git
 cd BliMSR
@@ -39,9 +39,9 @@ python3 trainer.py
 ```
 
 # Acknowledgements 
-MedSRGAN - https://github.com/04RR/MedSRGAN \
-Real_ESRGAN - https://github.com/xinntao/Real-ESRGAN/tree/5ca1078535923d485892caee7d7804380bfc87fd \
-MHCA - https://github.com/lilygeorgescu/MHCA
+[MedSRGAN](https://github.com/04RR/MedSRGAN) \
+[Real_ESRGAN](https://github.com/xinntao/Real-ESRGAN/tree/5ca1078535923d485892caee7d7804380bfc87fd) \
+[MHCA](https://github.com/lilygeorgescu/MHCA)
 
 # Citation
 ```bash
