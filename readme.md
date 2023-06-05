@@ -34,9 +34,9 @@ python3 trainer.py
 ```
 
 # Acknowledgements 
-MedSRGAN - https://github.com/04RR/MedSRGAN \\
-Real_ESRGAN - https://github.com/xinntao/Real-ESRGAN/tree/5ca1078535923d485892caee7d7804380bfc87fd \\
-MHCA - https://github.com/lilygeorgescu/MHCA \\
+MedSRGAN - https://github.com/04RR/MedSRGAN \
+Real_ESRGAN - https://github.com/xinntao/Real-ESRGAN/tree/5ca1078535923d485892caee7d7804380bfc87fd \
+MHCA - https://github.com/lilygeorgescu/MHCA
 
 # Citation
 ```bash
