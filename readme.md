@@ -1,13 +1,3 @@
-{\rtf1\ansi\ansicpg1252\cocoartf2706
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fmodern\fcharset0 Courier;\f1\fnil\fcharset0 .AppleSystemUIFontMonospaced-Regular;}
-{\colortbl;\red255\green255\blue255;\red255\green255\blue255;\red0\green0\blue0;\red24\green26\blue30;
-\red244\green246\blue249;}
-{\*\expandedcolortbl;;\cssrgb\c100000\c100000\c100000;\cssrgb\c0\c0\c0;\cssrgb\c12157\c13725\c15686;
-\cssrgb\c96471\c97255\c98039;}
-\paperw11900\paperh16840\margl1440\margr1440\vieww28600\viewh16380\viewkind0
-\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
-
-\f0\fs24 \cf0 \
 The repository contains the implementation of the following paper.\
 Title - BliMSR: Blind degradation modelling for generating high-resolution medical images\
 Authors - \cb2 \expnd0\expndtw0\kerning0
