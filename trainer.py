@@ -139,6 +139,6 @@ for epoch in range(start_epoch,epochs+1):
     with open(log_name, "a") as log_file:
       log_file.write('%s\n' % message)  # save the message
 
-    if epoch%10==0 or epoch==epochs-1:
+    if epoch%10==0 or epoch==epochs:
       torch.save(gen.state_dict(), checkpoints_dir+"gen_"+str(epoch)+'.pth')
       torch.save(disc.state_dict(), checkpoints_dir+"disc_"+str(epoch)+'.pth')
