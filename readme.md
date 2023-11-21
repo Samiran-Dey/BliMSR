@@ -1,8 +1,13 @@
+# BliMSR: Blind degradation modelling for generating high-resolution medical images
+
 The repository contains the implementation of the following paper. \
 \
 Title - **BliMSR: Blind degradation modelling for generating high-resolution medical images** \
 Authors - Samiran Dey, Partha Basuchowdhuri, Debasis Mitra, Robin Augustine,  Sanjoy Kumar Saha and Tapabrata Chakraborti \
 DOI - https://doi.org/10.1007/978-3-031-48593-0_5
+\
+\
+
 
 # Getting started
 
