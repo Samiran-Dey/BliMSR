@@ -6,7 +6,7 @@ Title - **BliMSR: Blind degradation modelling for generating high-resolution med
 Authors - Samiran Dey, Partha Basuchowdhuri, Debasis Mitra, Robin Augustine,  Sanjoy Kumar Saha and Tapabrata Chakraborti \
 DOI - https://doi.org/10.1007/978-3-031-48593-0_5
 \
-<img src="./images/Overview.pdf" width="500px">  </img>
+<img src="./images/overview.PNG">  </img>
 
 ## Abstract
 A persisting problem with existing super-resolution (SR) models is that they cannot produce minute details of anatomical structures, pathologies, and textures critical for proper diagnosis. This is mainly because they assume specific degradations like bicubic downsampling or Gaussian noise, whereas, in practice, the degradations can be more complex and hence need to be modelled “blindly”. We propose a novel attention-based GAN model for medical image super-resolution that models the degradation in a data-driven agnostic way (“blind”) to achieve better fidelity of diagnostic features in medical images. We introduce a new ensemble loss in the generator that boosts performance and a spectral normalisation in the discriminator to enhance stability. Experimental results on lung CT scans demonstrate that our model, BliMSR, produces super-resolved images with enhanced details and textures and outperforms recent competing models, including a diffusion model for generating super-resolution images, thus establishing a state-of-the-art.
