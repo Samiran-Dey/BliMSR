@@ -53,5 +53,5 @@ python3 trainer.py
 
 # Citation
 ```bash
-Samiran Dey, Partha Basuchowdhuri, Debasis Mitra, Robin Augustine,  Sanjoy Kumar Saha and Tapabrata Chakraborti. BliMSR: Blind degradation modelling for generating high-resolution medical images. 27th Conference on Medical Image Understanding and Analysis (MIUA), 2023. https://doi.org/10.1007/978-3-031-48593-0_5.
+Dey, S., Basuchowdhuri, P., Mitra, D., Augustine, ., Saha, S.K., Chakraborti, T. (2024). BliMSR: Blind Degradation Modelling for Generating High-Resolution Medical Images. In: Waiter, G., Lambrou, T., Leontidis, G., Oren, N., Morris, T., Gordon, S. (eds) Medical Image Understanding and Analysis. MIUA 2023. Lecture Notes in Computer Science, vol 14122. Springer, Cham. https://doi.org/10.1007/978-3-031-48593-0_5
 ```
