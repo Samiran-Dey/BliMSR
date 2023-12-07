@@ -55,3 +55,21 @@ python3 trainer.py
 ```bash
 Dey, S., Basuchowdhuri, P., Mitra, D., Augustine, ., Saha, S.K., Chakraborti, T. (2024). BliMSR: Blind Degradation Modelling for Generating High-Resolution Medical Images. In: Waiter, G., Lambrou, T., Leontidis, G., Oren, N., Morris, T., Gordon, S. (eds) Medical Image Understanding and Analysis. MIUA 2023. Lecture Notes in Computer Science, vol 14122. Springer, Cham. https://doi.org/10.1007/978-3-031-48593-0_5
 ```
+
+```bash
+@inbook{Dey2023,
+  title = {BliMSR: Blind Degradation Modelling for Generating High-Resolution Medical Images},
+  ISBN = {9783031485930},
+  ISSN = {1611-3349},
+  url = {http://dx.doi.org/10.1007/978-3-031-48593-0_5},
+  DOI = {10.1007/978-3-031-48593-0_5},
+  booktitle = {Lecture Notes in Computer Science},
+  publisher = {Springer Nature Switzerland},
+  author = {Dey,  Samiran and Basuchowdhuri,  Partha and Mitra,  Debasis and Augustine,  Robin and Saha,  Sanjoy Kumar and Chakraborti,  Tapabrata},
+  year = {2023},
+  month = dec,
+  pages = {64–78}
+}
+```
+
+
