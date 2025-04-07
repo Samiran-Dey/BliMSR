@@ -45,6 +45,7 @@ In trainer.py set paths for checkpoints and data. To begin training execute the 
 ```bash
 python3 trainer.py
 ```
+The trained weight can be downloaded from [drive](https://drive.google.com/file/d/1baxaRC76g0wfdS_w1VYDiX2xDk82rnh1/view?usp=sharing).
 
 # Acknowledgements 
 [MedSRGAN](https://github.com/04RR/MedSRGAN) \
